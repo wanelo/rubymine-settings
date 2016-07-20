@@ -1,0 +1,35 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>haml</mask>
+      <mask>*haml*</mask>
+      <mask>*rake</mask>
+      <mask>*css</mask>
+      <mask>*html*</mask>
+      <mask>*shared*</mask>
+      <mask>*spec*</mask>
+      <mask>*haml</mask>
+      <mask>*scss</mask>
+      <mask>*.rb</mask>
+      <mask>*.yml</mask>
+      <mask>*erb</mask>
+      <mask>*rb</mask>
+      <mask>*spec</mask>
+      <mask>*yml</mask>
+    </recentFileMasks>
+  </component>
+</application>
