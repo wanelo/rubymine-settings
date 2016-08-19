@@ -197,5 +197,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="ToggleLineBreakpoint" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta alt h" />
+  </action>
   <action id="ViewBreakpoints" />
 </keymap>
