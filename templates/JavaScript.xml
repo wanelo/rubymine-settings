@@ -1,34 +1,12 @@
 <templateSet group="JavaScript">
   <template name="f" value="function() {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="RUBY" value="false" />
-      <option name="RHTML" value="false" />
-      <option name="CSS" value="false" />
-      <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="HAML" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="ff" value="function() { $END$ }" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="RUBY" value="false" />
-      <option name="RHTML" value="false" />
-      <option name="CSS" value="false" />
-      <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="HAML" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
 </templateSet>
