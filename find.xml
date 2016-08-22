@@ -32,6 +32,7 @@
       <mask>*rb</mask>
       <mask>*spec</mask>
       <mask>*yml</mask>
+      <mask>*js*</mask>
     </recentFileMasks>
   </component>
 </application>
