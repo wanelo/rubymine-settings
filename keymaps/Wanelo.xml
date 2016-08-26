@@ -92,7 +92,6 @@
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta end" />
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
   <action id="EditorTextStart">
@@ -100,7 +99,6 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorUnSelectWord">
@@ -139,6 +137,9 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
   </action>
   <action id="Macro.run whole test file">
     <keyboard-shortcut first-keystroke="ctrl meta alt f8" />
