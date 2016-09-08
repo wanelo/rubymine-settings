@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="hamlc" type="HAML" />
       <mapping ext="js___jb_bak___" type="JavaScript" />
       <mapping pattern="adhkfksadf" type="PLAIN_TEXT" />
       <mapping pattern="bash" type="PLAIN_TEXT" />
