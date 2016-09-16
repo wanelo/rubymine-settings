@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*spec*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,7 +22,6 @@
       <mask>*css</mask>
       <mask>*html*</mask>
       <mask>*shared*</mask>
-      <mask>*spec*</mask>
       <mask>*haml</mask>
       <mask>*scss</mask>
       <mask>*.rb</mask>
@@ -35,6 +35,7 @@
       <mask>*contro*</mask>
       <mask>*coffee*</mask>
       <mask>*scss*</mask>
+      <mask>*spec*</mask>
     </recentFileMasks>
   </component>
 </application>
