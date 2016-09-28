@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*conf*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -39,6 +40,7 @@
       <mask>*spec</mask>
       <mask>*haml</mask>
       <mask>*rb</mask>
+      <mask>*conf*</mask>
     </recentFileMasks>
   </component>
 </application>
