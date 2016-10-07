@@ -37,6 +37,7 @@
       <mask>*spec</mask>
       <mask>*haml</mask>
       <mask>*rb</mask>
+      <mask>*conf*</mask>
     </recentFileMasks>
   </component>
 </application>
