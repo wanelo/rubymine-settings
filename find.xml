@@ -10,7 +10,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -40,6 +39,7 @@
       <mask>*rb</mask>
       <mask>*conf*</mask>
       <mask>*yml</mask>
+      <mask>*api/*controll*</mask>
     </recentFileMasks>
   </component>
 </application>
