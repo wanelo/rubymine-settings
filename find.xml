@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*erb" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -25,7 +26,6 @@
       <mask>*scss</mask>
       <mask>*.rb</mask>
       <mask>*.yml</mask>
-      <mask>*erb</mask>
       <mask>api.rb</mask>
       <mask>*contro*</mask>
       <mask>*coffee*</mask>
@@ -38,6 +38,7 @@
       <mask>*conf*</mask>
       <mask>*yml</mask>
       <mask>*api/*controll*</mask>
+      <mask>*erb</mask>
     </recentFileMasks>
   </component>
 </application>
