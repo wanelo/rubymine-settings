@@ -25,7 +25,6 @@
       <mask>*scss</mask>
       <mask>*.rb</mask>
       <mask>*.yml</mask>
-      <mask>*erb</mask>
       <mask>api.rb</mask>
       <mask>*contro*</mask>
       <mask>*coffee*</mask>
@@ -34,10 +33,11 @@
       <mask>*js*</mask>
       <mask>*spec</mask>
       <mask>*haml</mask>
-      <mask>*rb</mask>
       <mask>*conf*</mask>
       <mask>*yml</mask>
       <mask>*api/*controll*</mask>
+      <mask>*erb</mask>
+      <mask>*rb</mask>
     </recentFileMasks>
   </component>
 </application>
