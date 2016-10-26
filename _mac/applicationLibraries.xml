@@ -12606,6 +12606,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
+    <library name="pg (v0.19.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.19.0/sample" />
+      </SOURCES>
+    </library>
     <library name="pg-hstore (v1.2.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pg-hstore-1.2.0/lib" />
@@ -16934,6 +16948,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sequel-4.39.0/lib" />
       </SOURCES>
     </library>
+    <library name="sequel (v4.39.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sequel-4.39.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sequel-4.39.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sequel-4.39.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sequel-4.39.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sequel-replica-failover (v2.0.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sequel-replica-failover-2.0.0/lib" />
@@ -16956,6 +16980,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/sequel-replica-failover-9e3feb4707fc/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequel-schema-sharding (v0.13.4@192795, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/sequel-schema-sharding-19279503fa7c/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/sequel-schema-sharding-19279503fa7c/lib" />
       </SOURCES>
     </library>
     <library name="sequel-schema-sharding (v0.13.4@fcb7f7, rbenv: 2.1.5) [gem]">
