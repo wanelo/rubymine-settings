@@ -34,10 +34,10 @@
       <mask>*spec</mask>
       <mask>*haml</mask>
       <mask>*conf*</mask>
-      <mask>*yml</mask>
       <mask>*api/*controll*</mask>
       <mask>*erb</mask>
       <mask>*rb</mask>
+      <mask>*yml</mask>
     </recentFileMasks>
   </component>
 </application>
