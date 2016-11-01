@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="fromCursor" value="false" />
-    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -27,7 +25,6 @@
       <mask>*scss</mask>
       <mask>*.rb</mask>
       <mask>*.yml</mask>
-      <mask>*erb</mask>
       <mask>api.rb</mask>
       <mask>*contro*</mask>
       <mask>*coffee*</mask>
@@ -36,10 +33,11 @@
       <mask>*js*</mask>
       <mask>*spec</mask>
       <mask>*haml</mask>
-      <mask>*rb</mask>
       <mask>*conf*</mask>
-      <mask>*yml</mask>
       <mask>*api/*controll*</mask>
+      <mask>*erb</mask>
+      <mask>*rb</mask>
+      <mask>*yml</mask>
     </recentFileMasks>
   </component>
 </application>
