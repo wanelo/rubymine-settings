@@ -1173,6 +1173,16 @@
         <option name="FOREGROUND" value="db784d" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="95cc5e" />
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="95cc5e" />
+      </value>
+    </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value />
     </option>
