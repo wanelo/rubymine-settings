@@ -1,11 +1,4 @@
 <scheme name="DeleteMe" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-11-02T10:43:13</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-11-02T10:43:28</property>
-    <property name="originalScheme">Atasay</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
