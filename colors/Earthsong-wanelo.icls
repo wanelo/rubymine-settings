@@ -1,11 +1,4 @@
 <scheme name="Earthsong-wanelo" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-11-02T11:01:25</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-11-02T11:14:54</property>
-    <property name="originalScheme">Earthsong</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -1148,6 +1141,36 @@
     <option name="REST.ITALIC">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="9e9d7f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="9e9d7f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="db784d" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="db784d" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
