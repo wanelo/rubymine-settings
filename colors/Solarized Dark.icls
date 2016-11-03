@@ -1163,9 +1163,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="Keyword">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1528,9 +1525,6 @@
         <option name="FOREGROUND" value="2b36" />
         <option name="BACKGROUND" value="859900" />
       </value>
-    </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
     </option>
     <option name="Map key">
       <value>
@@ -2406,9 +2400,6 @@
       <value>
         <option name="FOREGROUND" value="d33682" />
       </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="STRUCT_LIKE">
       <value>
