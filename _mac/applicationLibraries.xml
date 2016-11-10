@@ -430,10 +430,10 @@
     </library>
     <library name="activesupport (v4.0.13, rbenv: 2.1.2) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activesupport-4.0.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activesupport-4.0.13/.idea" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activesupport-4.0.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activesupport-4.0.13/.idea" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.0.13, rbenv: 2.1.5) [gem]">
@@ -19804,6 +19804,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.5, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
     <library name="thread_safe (v0.3.5, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
@@ -20354,6 +20368,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.51/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.52, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.52/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.52/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, rbenv: 2.1.5) [gem]">
