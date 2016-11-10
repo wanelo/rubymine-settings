@@ -2298,6 +2298,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.6, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.13.6, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/bin" />
@@ -2532,6 +2546,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="cache-object (v0.2.0@d85158, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-d851586739f0/gemfiles" />
       </SOURCES>
     </library>
     <library name="cache-object (v0.2.0@d85158, rbenv: 2.1.5) [gem]">
@@ -6876,20 +6902,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/foreman-0.63.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/foreman-0.63.0/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/foreman-0.63.0/data" />
-      </SOURCES>
-    </library>
-    <library name="foreman (v0.78.0, rbenv: 2.1.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/man" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/man" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/foreman-0.78.0/data" />
       </SOURCES>
     </library>
     <library name="foreman (v0.78.0, rbenv: 2.1.5) [gem]">
@@ -14846,11 +14858,13 @@
     </library>
     <library name="rb-fsevent (v0.9.4, rbenv: 2.1.2) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.4/lib" />
