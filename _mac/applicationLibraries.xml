@@ -9648,6 +9648,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/knife-joyent-0.4.14/lib" />
       </SOURCES>
     </library>
+    <library name="knife-joyent (v0.4.14@f758f4, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-f758f4449c8d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-f758f4449c8d/lib" />
+      </SOURCES>
+    </library>
     <library name="koala (v2.4.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/koala-2.4.0/lib" />
