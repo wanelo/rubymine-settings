@@ -3236,6 +3236,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/CFPropertyList-2.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="CFPropertyList (v2.3.4, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/CFPropertyList-2.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/CFPropertyList-2.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="chef (v12.5.1, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/chef-12.5.1/bin" />
@@ -6604,6 +6612,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.12.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-aws (v0.13.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.13.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-aws (v0.7.6, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-aws-0.7.6/lib" />
@@ -6830,6 +6850,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.17/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.18, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-powerdns (v0.1.1, rbenv: 2.1.5) [gem]">
@@ -9864,6 +9896,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-75a8999d4687/lib" />
+      </SOURCES>
+    </library>
+    <library name="knife-joyent (v0.4.14@e88400, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-e8840039a300/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-e8840039a300/lib" />
       </SOURCES>
     </library>
     <library name="knife-joyent (v0.4.14@f758f4, rbenv: 2.1.5) [gem]">
