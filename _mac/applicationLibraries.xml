@@ -14122,6 +14122,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/pry-docmore-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry-inline (v1.0.2, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pry-inline-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pry-inline-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-nav (v0.2.3, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-nav-0.2.3/lib" />
@@ -21020,6 +21028,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/uglifier-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/uglifier-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="unicode (v0.4.4.2, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/unicode/0.4.4.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/unicode/0.4.4.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/unicode-0.4.4.2/tools" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.1.0, rbenv: 2.0.0-p247) [gem]">
