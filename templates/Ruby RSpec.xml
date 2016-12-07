@@ -1,8 +1,0 @@
-<templateSet group="Ruby RSpec">
-  <template name="fgc" value="FactoryGirl.create(:$CURSOR$)" toReformat="false" toShortenFQNames="true">
-    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
-</templateSet>
