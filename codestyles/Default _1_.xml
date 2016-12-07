@@ -34,5 +34,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="SPACE_WITHIN_BRACES" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
