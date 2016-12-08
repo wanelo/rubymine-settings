@@ -792,6 +792,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/amqp-1.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="analytics-ruby (v2.0.13, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/analytics-ruby-2.0.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/analytics-ruby-2.0.13/lib" />
+      </SOURCES>
+    </library>
     <library name="anjlab-bootstrap-rails (v2.1.0.4, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/anjlab-bootstrap-rails-2.1.0.4/lib" />
@@ -18656,6 +18664,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/simple_oauth-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_segment (v0.1.1, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/simple_segment-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/simple_segment-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/simple_segment-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/simple_segment-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.11.2, rbenv: 2.3.0) [gem]">
