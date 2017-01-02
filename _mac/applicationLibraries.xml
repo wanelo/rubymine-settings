@@ -840,6 +840,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/amqp-1.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="analytics-ruby (v2.0.13, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/analytics-ruby-2.0.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/analytics-ruby-2.0.13/lib" />
+      </SOURCES>
+    </library>
     <library name="anjlab-bootstrap-rails (v2.1.0.4, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/anjlab-bootstrap-rails-2.1.0.4/lib" />
@@ -2608,6 +2616,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cache-object-0.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="cache-object (v0.2.0@81a627, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/gemfiles" />
       </SOURCES>
     </library>
     <library name="cache-object (v0.2.0@d85158, rbenv: 2.1.2) [gem]">
@@ -10514,6 +10534,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="listen (v2.7.9, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/listen-2.7.9/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v2.8.5, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.8.5/bin" />
@@ -16412,6 +16442,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-activemodel-mocks-1.0.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-activemodel-mocks-1.0.2/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-collection_matchers (v1.0.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-collection_matchers-1.0.0/features" />
       </SOURCES>
     </library>
     <library name="rspec-collection_matchers (v1.1.2, rbenv: 2.1.2) [gem]">
