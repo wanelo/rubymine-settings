@@ -20024,6 +20024,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/solr" />
       </SOURCES>
     </library>
+    <library name="sunspot_with_kaminari (v0.2.0, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_with_kaminari-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_with_kaminari-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sunspot_with_kaminari (v0.2.0, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sunspot_with_kaminari-0.2.0/lib" />
