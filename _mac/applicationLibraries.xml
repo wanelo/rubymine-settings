@@ -6058,6 +6058,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.18/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-openstack (v0.1.19, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-powerdns (v0.1.1, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/fog-powerdns-0.1.1/bin" />
@@ -8322,6 +8334,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.1.1/conf" />
+      </SOURCES>
+    </library>
+    <library name="joyent-provisioner (v1.2.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/conf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/conf" />
       </SOURCES>
     </library>
     <library name="jquery-payment-rails (v0.0.3@30840f, rbenv: 2.1.2) [gem]">
@@ -11150,6 +11174,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/octokit-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="ohai (v8.22.1, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/ohai-8.22.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/ohai-8.22.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/ohai-8.22.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/ohai-8.22.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ohai (v8.7.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ohai-8.7.0/bin" />
@@ -12184,6 +12218,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.9.12.4, rbenv: 2.1.2) [gem]">
@@ -14060,6 +14104,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.4, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v2.99.2, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rspec-expectations-2.99.2/lib" />
@@ -14132,6 +14186,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.5.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-html-matchers (v0.7.0, rbenv: 2.1.2) [gem]">
@@ -14340,6 +14402,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.5.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-parts (v0.1.1, rbenv: 2.1.2) [gem]">
@@ -16172,6 +16242,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/specinfra-2.44.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="specinfra (v2.66.3, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/specinfra-2.66.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/specinfra-2.66.3/lib" />
       </SOURCES>
     </library>
     <library name="spoon (v0.0.4, rbenv: 2.1.2) [gem]">
