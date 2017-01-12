@@ -6278,6 +6278,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.1.1/conf" />
       </SOURCES>
     </library>
+    <library name="joyent-provisioner (v1.2.0, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/conf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/joyent-provisioner-1.2.0/conf" />
+      </SOURCES>
+    </library>
     <library name="jquery-payment-rails (v0.0.3@30840f, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/jquery-payment-rails-30840f272c2c/lib" />
