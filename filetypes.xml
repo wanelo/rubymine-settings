@@ -4,12 +4,13 @@
     <extensionMap>
       <mapping ext="hamlc" type="HAML" />
       <mapping ext="js___jb_bak___" type="JavaScript" />
-      <mapping pattern="adhkfksadf" type="PLAIN_TEXT" />
       <mapping pattern="bash" type="PLAIN_TEXT" />
-      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
-      <mapping pattern="THIRD PARTY SOFTWARE" type="PLAIN_TEXT" />
+      <mapping pattern=".use_new_makara" type="PLAIN_TEXT" />
+      <mapping pattern="adhkfksadf" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="models" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="THIRD PARTY SOFTWARE" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
