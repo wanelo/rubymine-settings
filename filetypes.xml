@@ -17,6 +17,7 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="rspec" type="PLAIN_TEXT" />
       <mapping ext="features" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cap" type="Ruby" />

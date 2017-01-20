@@ -19234,6 +19234,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/archive" />
       </SOURCES>
     </library>
+    <library name="rake (v0.9.2.2, rbenv: 1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.3.1, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rake-10.3.1/bin" />
@@ -19788,6 +19796,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rdoc-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/rdoc-3.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v3.9.5, rbenv: 1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.2, rbenv: 2.1.5) [gem]">
