@@ -3966,6 +3966,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/cache-object-0.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cache-object (v0.2.0@0729ed, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-0729edac1883/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="cache-object (v0.2.0@81a627, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/bin" />
@@ -3976,6 +3988,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-81a627928b1b/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="cache-object (v0.2.0@8913e1, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bundler/gems/cache-object-8913e1c5b90c/gemfiles" />
       </SOURCES>
     </library>
     <library name="cache-object (v0.2.0@d85158, rbenv: 2.1.2) [gem]">
@@ -25030,6 +25054,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rsolr-1.0.10/tasks" />
       </SOURCES>
     </library>
+    <library name="rsolr (v1.1.2, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rsolr-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rsolr-1.1.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rsolr-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/rsolr-1.1.2/tasks" />
+      </SOURCES>
+    </library>
     <library name="rspec (v2.14.1, rbenv: 2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/gems/rspec-2.14.1/lib" />
@@ -30288,6 +30322,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sunspot-2.1.1/script" />
       </SOURCES>
     </library>
+    <library name="sunspot (v2.2.7, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot-2.2.7/script" />
+      </SOURCES>
+    </library>
     <library name="sunspot-queue (v0.10.2, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sunspot-queue-0.10.2/lib" />
@@ -30342,6 +30392,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sunspot_matchers-2.1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sunspot_matchers (v2.2.5.0, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_matchers-2.2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_matchers-2.2.5.0/lib" />
       </SOURCES>
     </library>
     <library name="sunspot_rails (v2.1.1, rbenv: 2.1.0) [gem]">
@@ -30424,6 +30482,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sunspot_rails-2.1.1/generators" />
       </SOURCES>
     </library>
+    <library name="sunspot_rails (v2.2.7, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/dev_tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/dev_tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_rails-2.2.7/generators" />
+      </SOURCES>
+    </library>
     <library name="sunspot_solr (v2.0.0, rbenv: 2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.0.0/bin" />
@@ -30484,6 +30558,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sunspot_solr-2.0.0/solr" />
       </SOURCES>
     </library>
+    <library name="sunspot_solr (v2.1.0, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/solr" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.0/solr" />
+      </SOURCES>
+    </library>
     <library name="sunspot_solr (v2.1.1, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.1/bin" />
@@ -30506,6 +30592,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.1.1/solr" />
+      </SOURCES>
+    </library>
+    <library name="sunspot_solr (v2.2.7, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/solr" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sunspot_solr-2.2.7/solr" />
       </SOURCES>
     </library>
     <library name="sunspot_with_kaminari (v0.2.0, rbenv: 2.1.0) [gem]">
