@@ -14166,6 +14166,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/knife-joyent-0.4.14/lib" />
       </SOURCES>
     </library>
+    <library name="knife-joyent (v0.4.14@9488a4, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-9488a463dd52/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-9488a463dd52/lib" />
+      </SOURCES>
+    </library>
     <library name="knife-joyent (v0.4.14@e88400, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/knife-joyent-e8840039a300/lib" />
