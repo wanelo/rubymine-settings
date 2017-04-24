@@ -2534,6 +2534,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
+    <library name="bumbler (v0.3.2, rbenv: 2.1.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bumbler-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bumbler-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bumbler-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bumbler-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.11.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/bin" />
@@ -3510,11 +3520,13 @@
     </library>
     <library name="byebug (v2.7.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/2.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/2.7.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/byebug-2.7.0/lib" />
